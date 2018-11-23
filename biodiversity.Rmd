@@ -1,0 +1,62 @@
+---
+title: "Data management and education at the CAP LTER"
+subtitle: FALSE
+author: FALSE
+date: "2018-11-28"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "assets/my-theme.css", "libs/remark-css/default-fonts.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+.pull-left[
+
+  ![](assets/images/CAPLTERlogo-color.jpg)
+  
+  * Long-Term Ecological Research: NSF program established 1980
+  
+  * Currently 28 LTER sites
+  
+  * Central Arizona-Phoenix site established 1997
+  
+]
+
+.pull-right[
+  ![](assets/images/LTER-sites.jpg)
+]
+
+
+---
+
+__*central question:*__ How do the services provided by dynamic urban ecosystems and their infrastructure affect human outcomes and behavior, and how do human actions affect patterns of urban ecosystem structure and function and, ultimately, urban sustainability and resilience?
+  
+.center[
+  <img src="assets/images/CAP-conceptual-model.jpg" width="60%">
+]
+
+
+---
+
+<br>
+<br>
+
+.center[
+  ![](assets/images/eco-exp-arthropods.png)
+  <!-- ![](assets/images/eco-explorer-logo.png) -->
+]
+
+
+---
+
+.center[
+  ![](assets/images/mcd-cit-sci.png)
+]
