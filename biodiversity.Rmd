@@ -19,9 +19,8 @@ options(htmltools.dir.version = FALSE)
 
 
 .pull-left[
-
   ![](assets/images/CAPLTERlogo-color.jpg)
-  
+  <br>
   * Long-Term Ecological Research: NSF program established 1980
   
   * Currently 28 LTER sites
@@ -37,7 +36,14 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-__*central question:*__ How do the services provided by dynamic urban ecosystems and their infrastructure affect human outcomes and behavior, and how do human actions affect patterns of urban ecosystem structure and function and, ultimately, urban sustainability and resilience?
+study area...placeholder
+
+
+---
+
+__*central question:*__ .cap-red[How do the services provided by dynamic urban ecosystems and their infrastructure affect human outcomes and behavior, and how do human actions affect patterns of urban ecosystem structure and function and, ultimately, urban sustainability and resilience?]
+
+<br>
   
 .center[
   <img src="assets/images/CAP-conceptual-model.jpg" width="60%">
@@ -46,17 +52,91 @@ __*central question:*__ How do the services provided by dynamic urban ecosystems
 
 ---
 
-<br>
-<br>
+.cap-red[**CAP LTER organizational structure: Integrated Research Teams (IRTs)**]
 
 .center[
-  ![](assets/images/eco-exp-arthropods.png)
-  <!-- ![](assets/images/eco-explorer-logo.png) -->
+  ![](assets/images/cap-org.png)
 ]
 
 
 ---
 
+.cap-red[**CAP LTER long-term monitoring or experiments with a biodiversity focus or component**]
+
 .center[
-  ![](assets/images/mcd-cit-sci.png)
+  ![](assets/images/lt-biodiv.png)
+]
+
+
+---
+
+<br>
+
+.center[
+  ![](assets/images/pitfalls-map.png)
+]
+
+
+---
+
+<br>
+
+.center[
+  ![](assets/images/pitfalls-habitats.png)
+]
+
+
+---
+
+camera trapping placeholder?
+
+
+---
+
+.cap-red[**K-12 education & outreach**]
+
+.small[
+* provide training and materials to teachers, ASU students, non-formal educators
+* partner with other organizations to update, revise, develop lesson plans & learning activities
+* topics: ecologies of the Sonoran desert and Phoenix area urban ecosystem, and CAP LTER research such as social science and microclimates
+* develop scientific skills in areas such as modeling, data analysis, & research design
+]
+
+.center[
+  <img src="assets/images/eco-exp-arthropods.png" width="90%">
+  <!-- ![](assets/images/eco-exp-arthropods.png) -->
+]
+
+
+---
+
+.pull-left[
+  .cap-red[**~~citizen~~ resident science**]
+  ![](assets/images/msc-pitfall-install-3.png)
+  <br>
+  .med-grey[photos: Marianne Jensen]
+]
+.pull-right[
+  ![](assets/images/msc-pitfall-install-1.png)
+  ![](assets/images/msc-pitfall-install-2.png)
+  ![](assets/images/spider.png)
+]
+
+
+---
+
+<br>
+<br>
+
+.center[
+  ![](assets/images/data-flow.png)
+]
+
+
+---
+
+#### research data workflow: this is your world (or it will be soon)
+
+.center[
+  ![](assets/images/workflow_with_data.png)
 ]

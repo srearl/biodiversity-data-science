@@ -1,11 +1,17 @@
 .light-grey {
   color: #C8C8C8;
 }
+.med-grey {
+  color: #A0A0A0;
+}
+.cap-red {
+  color: #8C1D40;
+}
 .light-blue {
   color: #71A3C3;
 }
 .small {
-  font-size: 85%
+  font-size: 80%
 }
 .less-left {
   float: left;
