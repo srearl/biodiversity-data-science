@@ -21,6 +21,7 @@ options(htmltools.dir.version = FALSE)
 .pull-left[
   ![](assets/images/CAPLTERlogo-color.jpg)
   <br>
+  <br>
   * Long-Term Ecological Research: NSF program established 1980
   
   * Currently 28 LTER sites
@@ -36,7 +37,12 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-study area...placeholder
+.cap-red[**CAP LTER study area**]
+
+.center[
+  ![](assets/images/cap-study-area.png)
+  <!-- <img src="assets/images/CAP-conceptual-model.jpg" width="60%"> -->
+]
 
 
 ---
@@ -70,7 +76,7 @@ __*central question:*__ .cap-red[How do the services provided by dynamic urban e
 
 ---
 
-<br>
+.cap-red[**CAP LTER long-term monitoring of arthropods: quarterly sampling at ~40 locations**]
 
 .center[
   ![](assets/images/pitfalls-map.png)
@@ -79,7 +85,7 @@ __*central question:*__ .cap-red[How do the services provided by dynamic urban e
 
 ---
 
-<br>
+.cap-red[**CAP LTER long-term monitoring of arthropods: quarterly sampling at ~40 locations**]
 
 .center[
   ![](assets/images/pitfalls-habitats.png)
@@ -135,8 +141,16 @@ camera trapping placeholder?
 
 ---
 
-#### research data workflow: this is your world (or it will be soon)
+.cap-red[**research data workflow, a model**]
+
+<br>
 
 .center[
   ![](assets/images/workflow_with_data.png)
+]
+
+--
+
+.center[
+  **version control – scripting – databases – naming – organization**
 ]
