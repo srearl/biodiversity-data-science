@@ -56,17 +56,6 @@ __*central question:*__ .cap-red[How do the services provided by dynamic urban e
 ]
 
 
-<!--
----
-
-.cap-red[**CAP LTER organizational structure: Integrated Research Teams (IRTs)**]
-
-.center[
-  ![](assets/images/cap-org.png)
-]
-
--->
-
 ---
 
 .cap-red[**CAP LTER long-term monitoring or experiments with a biodiversity focus or component**]
